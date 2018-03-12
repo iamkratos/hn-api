@@ -1,1 +1,1 @@
-## A quick excercise in flexing 🏼🏼🏼 with React and the HN API
+## A quick excercise in flexing 💪🏼 💪🏼 💪🏼 with React and the HN API
